@@ -1,4 +1,4 @@
-<img width="5816" height="8704" alt="Home Page1" src="https://github.com/user-attachments/assets/c9f9eb12-ceaf-47d5-8a49-5d0cde109d34" /><img width="5816" height="8704" alt="Home Page1" src="https://github.com/user-attachments/assets/a7841bb8-cb55-4600-88d9-d0232a684884" /># 📚 NotesNest – Online Notes Sharing Platform
+# 📚 NotesNest – Online Notes Sharing Platform
 
 NotesNest is a full-stack web application that allows students to upload, manage, and download academic notes efficiently. It includes separate user and admin panels with secure authentication and role-based access control.
 
